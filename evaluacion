@@ -4,8 +4,8 @@
        <div class="row d_flex">
           <div class="col-md-5">
              <div class="about_img">
-                <figure><img src="images/b1.png.jpeg" alt="#"/></figure> 
-                <figure><img src="images/DOKER.png.jpeg" alt="#"/></figure>
+                <figure><img src="b1.png.jpeg" alt="#"/></figure> 
+                <figure><img src="DOKER.png.jpeg" alt="#"/></figure>
              </div>
           </div>
           <div class="col-md-7">
