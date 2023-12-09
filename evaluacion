@@ -1,0 +1,53 @@
+<!-- about section -->
+<div class="evaluacion">
+    <div class="container">
+       <div class="row d_flex">
+          <div class="col-md-5">
+             <div class="about_img">
+                <figure><img src="images/b1.png.jpeg" alt="#"/></figure> 
+                <figure><img src="images/DOKER.png.jpeg" alt="#"/></figure>
+             </div>
+          </div>
+          <div class="col-md-7">
+             <div class="titlepage">
+                <h2>Evaluación</h2>
+                <p>La virtualización es una tecnología que permite crear "máquinas virtuales" que actúan como sistemas operativos independientes
+                   en un único conjunto de recursos físicos, como procesadores, memoria, almacenamiento y redes. Estas máquinas virtuales pueden 
+                  ejecutar varios sistemas operativos o aplicaciones de forma aislada y segura. La idea principal es mejorar la eficiencia y flexibilidad al
+                   compartir recursos físicos de manera más efectiva.text. 
+                  DOKER 
+                   Un contenedor Docker es un paquete de software con todas las dependencias necesarias para ejecutar una aplicación específica. Toda la configuración y las instrucciones para iniciar o detener 
+                   los contenedores son dictadas por la imagen de Docker. Cada vez que un usuario ejecuta una image.text
+                </p>
+                </div>
+             <a class="read_more" href="#">Read More</a>
+          </div>
+       </div>
+    </div>
+ </div>
+ <!-- about section -->
+ <!--  footer -->
+ <footer>
+    <div class="footer">
+       <div class="container">
+          <div class="row">
+             <div class="col-md-8 offset-md-2">
+                <ul class="location_icon">
+                   <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a><br> Location</li>
+                   <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> +01 1234567890</li>
+                   <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a><br> demo@gmail.com</li>
+                </ul>
+             </div>
+          </div>
+       </div>
+       <div class="copyright">
+          <div class="container">
+             <div class="row">
+                <div class="col-md-12">
+                   <p>© 2019 All Rights Reserved. Design by<a href="https://html.design/"> Free Html Templates</a></p>
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+ </footer>
